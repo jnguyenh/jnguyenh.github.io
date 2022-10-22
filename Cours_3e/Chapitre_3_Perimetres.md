@@ -30,8 +30,8 @@
 
 **Définition 1 :**
 : Le périmètre $P$ d'une figure plane est la longueur de son contour. 
-: - Pour un polygone, on ajoute les longueurs de tous ses côtés ;
-: - Pour un cercle de rayon $r$ ($r>0$), on a la formule : $P = 2*\pi*r$
+ - Pour un polygone, on ajoute les longueurs de tous ses côtés ;
+ - Pour un cercle de rayon $r$ ($r>0$), on a la formule : $P = 2*\pi*r$
 
 #### Exemples :
 
