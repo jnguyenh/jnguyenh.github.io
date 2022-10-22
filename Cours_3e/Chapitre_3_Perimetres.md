@@ -35,7 +35,7 @@ Le périmètre $P$ d'une figure plane est la longueur de son contour.
 
 #### Exemples :
 
-<iframe border=0 frameborder=0 height=600 width=100% src="https://www.geogebra.org/m/kccdxm49"></iframe>
+<iframe border=0 frameborder=0 height=600 width=600 src="https://www.geogebra.org/m/kccdxm49"></iframe>
 
 
 
