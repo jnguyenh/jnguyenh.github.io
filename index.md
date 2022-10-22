@@ -1,8 +1,9 @@
 ---
-title: Cours de mathématiques
+title: "Cours de mathématiques"
 layout: default
 permalink : /
 ---
+
 # Sixième
 # Cinquième
 # Quatrième
